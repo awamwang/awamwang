@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/keepgoingwm/code-tell-you-javascript">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=keepgoingwm&repo=code-tell-you-javascript" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/keepgoingwm/30-seconds-of-code-cn">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=keepgoingwm&repo=30-seconds-of-code-cn" />
 </a>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=keepgoingwm&repo=code-tell-you-javascript)](https://github.com/keepgoingwm/code-tell-you-javascript)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=keepgoingwm&repo=30-seconds-of-code-cn)](https://github.com/keepgoingwm/30-seconds-of-code-cn)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=keepgoingwm&repo=koa-route-schema)](https://github.com/keepgoingwm/koa-route-schema)
+<a href="https://github.com/keepgoingwm/koa-route-schema">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?sername=keepgoingwm&repo=koa-route-schema" />
+</a>
