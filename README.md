@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ### 专注项目
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=keepgoingwm&repo=code-tell-you-javascript)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=keepgoingwm&repo=30-seconds-of-code)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=keepgoingwm&repo=330-seconds-of-code-cn)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=keepgoingwm&repo=koa-route-schema)](https://github.com/anuraghazra/github-readme-stats)
