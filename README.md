@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=keepgoingwm&repo=code-tell-you-javascript" />
 </a>
 <a href="https://github.com/keepgoingwm/30-seconds-of-code-cn">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=keepgoingwm&repo=30-seconds-of-code-cn" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=keepgoingwm&repo=30-seconds-of-code-cn" />
 </a>
 <a href="https://github.com/keepgoingwm/koa-route-schema">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?sername=keepgoingwm&repo=koa-route-schema" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=keepgoingwm&repo=koa-route-schema" />
 </a>
