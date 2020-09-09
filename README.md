@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/keepgoingwm/koa-route-schema">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=keepgoingwm&repo=koa-route-schema" />
 </a>
+<a href="https://github.com/keepgoingwm/vue-number-directive">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=keepgoingwm&repo=vue-number-directive" />
+</a>
