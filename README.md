@@ -20,19 +20,33 @@ Here are some ideas to get you started:
 
 ### 最近项目
 
-<a href="https://github.com/awamwang/vue-number-directive">
+<!-- vue-number-directive -->
+<a href="vue-number-directive">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=vue-number-directive" />
 </a>
-<a href="https://github.com/awamwang/code-tell-you-javascript">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=code-tell-you-javascript" />
+
+<!-- vue-wangeditor-awesome -->
+<a href="https://github.com/awamwang/vue-wangeditor-awesome">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=vue-wangeditor-awesome" />
 </a>
-<a href="https://github.com/awamwang/develop-knowledge-graphic">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=develop-knowledge-graphic" />
-</a>
+
+<!-- koa-route-schema -->
 <a href="https://github.com/awamwang/koa-route-schema">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=koa-route-schema" />
 </a>
+
+<!-- code-tell-you-javascript -->
+<a href="https://github.com/awamwang/code-tell-you-javascript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=code-tell-you-javascript" />
+</a>
+
+<!-- develop-knowledge-graphic -->
+<a href="https://github.com/awamwang/develop-knowledge-graphic">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=develop-knowledge-graphic" />
+</a>
+
+<!-- vue-number-directive 
 <a href="https://github.com/awamwang/create-js-module">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=create-js-module" />
 </a>
-
+-->
