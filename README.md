@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 最近项目
 
 <!-- vue-number-directive -->
-<a href="vue-number-directive">
+<a href="https://github.com/awamwang/vue-number-directive">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=vue-number-directive" />
 </a>
 
