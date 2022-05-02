@@ -27,17 +27,17 @@ Here are some ideas to get you started:
 
 <!-- koa-route-schema -->
 <a href="https://github.com/awamwang/koa-route-schema">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=koa-route-schema" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=koa-route-schema" style="height:140px;" />
 </a>
 
 <!-- code-tell-you-javascript -->
 <a href="https://github.com/awamwang/code-tell-you-javascript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=code-tell-you-javascript" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=code-tell-you-javascript" />
 </a>
 
 <!-- develop-knowledge-graphic -->
 <a href="https://github.com/awamwang/develop-knowledge-graphic">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=develop-knowledge-graphic" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=develop-knowledge-graphic" />
 </a>
 
 <!-- vue-number-directive 
