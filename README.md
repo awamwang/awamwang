@@ -25,11 +25,6 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=vue-number-directive" />
 </a>
 
-<!-- vue-wangeditor-awesome -->
-<a href="https://github.com/awamwang/vue-wangeditor-awesome">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=vue-wangeditor-awesome" />
-</a>
-
 <!-- koa-route-schema -->
 <a href="https://github.com/awamwang/koa-route-schema">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=koa-route-schema" />
