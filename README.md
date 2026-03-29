@@ -1,47 +1,49 @@
-### Hi there 👋
+  ### Hi there 👋
 
-<!--
-**awamwang/awamwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   <!--
+   **awamwang/awamwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub
+ profile.
 
-Here are some ideas to get you started:
+   Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   - 🔭 I'm currently working on ...
+   - 🌱 I'm currently learning ...
+   - 👯 I'm looking to collaborate on ...
+   - 🤔 I'm looking for help with ...
+   - 💬 Ask me about ...
+   - 📫 How to reach me: ...
+   - 😄 Pronouns: ...
+   - ⚡ Fun fact: ...
+   -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=awamwang)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awamwang)](https://github.com/anuraghazra/github-readme-stats)
+   ## 📊 GitHub Stats
 
-### 最近项目
+   **Total Contributions**: 📈 View on GitHub
+   **Languages**: 🔍 See below
+   **Repositories**: 📦 20+ (public)
 
-<!-- vue-number-directive -->
-<a href="https://github.com/awamwang/vue-number-directive">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=vue-number-directive" />
-</a>
+   ## 🏆 Top Languages
 
-<!-- koa-route-schema -->
-<a href="https://github.com/awamwang/koa-route-schema">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=koa-route-schema" style="height:140px;" />
-</a>
+   1. TypeScript 🟦
+   2. Vue.js 🟩
+   3. JavaScript 📜
+   4. Python 🐍
+   5. Go 🐹
 
-<!-- code-tell-you-javascript -->
-<a href="https://github.com/awamwang/code-tell-you-javascript">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=code-tell-you-javascript" />
-</a>
+   ## 🌟 Recent Projects
 
-<!-- develop-knowledge-graphic -->
-<a href="https://github.com/awamwang/develop-knowledge-graphic">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=develop-knowledge-graphic" />
-</a>
+   ### [vue-number-directive](https://github.com/awamwang/vue-number-directive)
+   Vue数字格式化指令，支持千分位、货币、百分比等格式。
 
-<!-- vue-number-directive 
-<a href="https://github.com/awamwang/create-js-module">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=awamwang&repo=create-js-module" />
-</a>
--->
+   ### [koa-route-schema](https://github.com/awamwang/koa-route-schema)
+   Koa路由参数验证中间件，支持JSON Schema验证。
+
+   ### [code-tell-you-javascript](https://github.com/awamwang/code-tell-you-javascript)
+   JavaScript代码分析和解释工具。
+
+   ### [develop-knowledge-graphic](https://github.com/awamwang/develop-knowledge-graphic)
+   开发知识图谱项目。
+
+   ---
+
+   _Last updated: 2025-03-29_
