@@ -1,49 +1,46 @@
-  ### Hi there 👋
+### Hi there 👋
 
-   <!--
-   **awamwang/awamwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub
- profile.
+全栈开发者，专注 **vibe coding** 与 **harness agent** 开发。喜欢用 AI 把想法快速落地，也愿意把可复用的技能与工具开源出来。
 
-   Here are some ideas to get you started:
+<!--
+**awamwang/awamwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub
+profile.
 
-   - 🔭 I'm currently working on ...
-   - 🌱 I'm currently learning ...
-   - 👯 I'm looking to collaborate on ...
-   - 🤔 I'm looking for help with ...
-   - 💬 Ask me about ...
-   - 📫 How to reach me: ...
-   - 😄 Pronouns: ...
-   - ⚡ Fun fact: ...
-   -->
+Here are some ideas to get you started:
 
-   ## 📊 GitHub Stats
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-   **Total Contributions**: 📈 View on GitHub
-   **Languages**: 🔍 See below
-   **Repositories**: 📦 20+ (public)
+## 📊 GitHub Stats
 
-   ## 🏆 Top Languages
+**Total Contributions**: 📈 View on GitHub
+**Languages**: 🔍 See below
+**Repositories**: 📦 20+ (public)
 
-   1. TypeScript 🟦
-   2. Vue.js 🟩
-   3. JavaScript 📜
-   4. Python 🐍
-   5. Go 🐹
+## 🏆 Top Languages
 
-   ## 🌟 Recent Projects
+1. TypeScript 🟦
+2. Python 🐍
+3. JavaScript 📜
 
-   ### [vue-number-directive](https://github.com/awamwang/vue-number-directive)
-   Vue数字格式化指令，支持千分位、货币、百分比等格式。
+## 🌟 推荐项目
 
-   ### [koa-route-schema](https://github.com/awamwang/koa-route-schema)
-   Koa路由参数验证中间件，支持JSON Schema验证。
+### [vibe-astock](https://github.com/awamwang/vibe-astock)
+A 股短线复盘看板：涨停池·连板梯队·龙虎榜·板块资金一屏看完，派生指标本地计算，AI 只负责盘面研判叙事。
 
-   ### [code-tell-you-javascript](https://github.com/awamwang/code-tell-you-javascript)
-   JavaScript代码分析和解释工具。
+### [skills](https://github.com/awamwang/skills)
+个人 AI Skills 索引，整理按用途分类的 Agent 技能，便于查找与选用。
 
-   ### [develop-knowledge-graphic](https://github.com/awamwang/develop-knowledge-graphic)
-   开发知识图谱项目。
+### [awam-stock-public](https://github.com/awamwang/awam-stock-public)
+基于 TypeScript 的股市工具集，面向短线的数据推送与学习工具化实践。
 
-   ---
+---
 
-   _Last updated: 2025-03-29_
+_Last updated: 2026-08-30_
